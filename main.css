@@ -1,0 +1,18 @@
+.canadia {
+    color:green;
+    background-color:orange;
+}
+.why {
+    display: center;
+    font-size:25px;
+}
+#first {
+    background-color: green;
+}
+#second {
+    background-color: orange;
+}
+#third{
+    color:white;
+    background-color: blue;
+}
